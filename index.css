@@ -36,6 +36,7 @@ a{
   text-decoration: none;
   color: var(--white);
   display: inline-block;
+  cursor: pointer;
 }
 
 /* home section */

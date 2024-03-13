@@ -41,6 +41,7 @@ a{
 
 /* home section */
 .home{
+  background-color: var(--very-pale-cyan);
   background-image: url(./images/bg-hero-desktop.svg);
   padding: 80px;
 }
